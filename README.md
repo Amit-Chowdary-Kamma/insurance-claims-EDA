@@ -6,6 +6,8 @@ Exploratory data analysis on 6,249 auto insurance claims, uncovering patterns in
 
 This project analyzes claims data from an automobile insurance company operating in the southwestern and western United States. The goal was to identify what drives differences between highly profitable customers and those who cost the company more than they generate in premium revenue, and to translate those patterns into actionable recommendations.
 
+*Originally completed as a course project for a graduate business analytics program. The dataset and question prompts were provided by the course; the analysis, code, visualizations, and write-up are my own.*
+
 ## Dataset
 
 The dataset (`claims_df`) contains 6,249 individual auto insurance claims, with features covering:
@@ -44,12 +46,3 @@ The analysis answers 9 questions using summary statistics and visualizations (ba
 - **Environment:** Jupyter Notebook
 
 ## Project Structure
-
-```
-├── Amit_Chowdary_Kamma_analysis_project.ipynb   # Full analysis notebook
-└── README.md
-```
-
-## How to View
-
-Open the `.ipynb` file directly on GitHub. It renders automatically in the browser, including all code, output tables, and visualizations.
